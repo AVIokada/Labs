@@ -1,0 +1,5 @@
+﻿  Lab 2.3.cpp
+D:\Code\Lab 2.3\Lab 2.3.cpp(25,15): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+D:\Code\Lab 2.3\Lab 2.3.cpp(37,13): warning C4305: инициализация: усечение из "double" в "float"
+D:\Code\Lab 2.3\Lab 2.3.cpp(40,9): warning C4305: =: усечение из "double" в "float"
+  Lab 2.3.vcxproj -> D:\Code\Lab 2.3\x64\Debug\Lab 2.3.exe
